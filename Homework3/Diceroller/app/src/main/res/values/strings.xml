@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice roller</string>
+    <string name="actionRollText">Roll dice</string>
+    <string name="diceDescription">Dice</string>
+    <string name="when1Text">Now you can pick dices to hold</string>
+    <string name="when2Text">Pick one more time</string>
+    <string name="when3Text">We are finished</string>
+    <string name="when4Text">New round</string>
+</resources>

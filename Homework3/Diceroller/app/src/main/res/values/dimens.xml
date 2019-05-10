@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="diceWidthHeight">100dp</dimen>
+    <dimen name="marginDice">20dp</dimen>
+    <dimen name="paddingDice">4dp</dimen>
+</resources>

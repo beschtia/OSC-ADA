@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normalSize">16sp</dimen>
+    <dimen name="marginNormal">10dp</dimen>
+    <dimen name="inputWidth">100dp</dimen>
+    <dimen name="marginInputEnd">120dp</dimen>
+    <dimen name="imageWidth">160dp</dimen>
+    <dimen name="textBig">30sp</dimen>
+    <dimen name="marginBig">30dp</dimen>
+    <dimen name="descriptionWidth">180dp</dimen>
+    <dimen name="paddingMedium">8dp</dimen>
+</resources>

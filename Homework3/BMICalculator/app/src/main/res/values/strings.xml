@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="tvUnderweight">Underweight</string>
+    <string name="tvNormal">Normal</string>
+    <string name="tvOverweight">Overweight</string>
+    <string name="tvObese">Obese</string>
+    <string name="tvUnderweightDescription">It is not something to be proud of. Please eat. Have a burger, grab a beer and eat your dessert. </string>
+    <string name="tvNormalDescription">Bravo!!!! Keep up and do not change anything.</string>
+    <string name="tvOverweightDescription">You are on thin line. Better watch what and how much you eat. With little exercise you can avoid health problems.</string>
+    <string name="tvObeseDescription">Oh no! You really must watch what and how much you eat. With strong motivation and through hard exercise you can avoid health problems.</string>
+    <string name="labelHight">Enter your height in meters:</string>
+    <string name="hightInputHint">meters</string>
+    <string name="labelWeight">Enter your weight in kilograms:</string>
+    <string name="weightInputHint">kilograms</string>
+    <string name="calculateActionText">Calculate</string>
+    <string name="imageDescriptionText">Picture of person</string>
+    <string name="noInputHeight">Please insert value for height</string>
+    <string name="noInputWeight">Please insert value for weight</string>
+    <string name="heightInputSmall">Inserted height is too small</string>
+    <string name="weightInputSmall">Inserted weight is too small</string>
+</resources>
